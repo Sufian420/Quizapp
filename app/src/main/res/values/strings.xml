@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">QuizApp</string>
+    <string name="ProfileName">Md Sufiyan</string>
+    <string name="category">Top Quiz Categories</string>
+    <string name="viewBtn">View All</string>
+    <string name="maths">MATHS</string>
+    <string name="physics">PHYSICS</string>
+    <string name="chemistry">CHEMISTRY</string>
+    <string name="english">ENGLISH</string>
+    <string name="geography">GEOGRAPHY</string>
+    <string name="sports">SPORTS</string>
 </resources>
