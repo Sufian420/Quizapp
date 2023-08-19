@@ -9,4 +9,7 @@
     <string name="english">ENGLISH</string>
     <string name="geography">GEOGRAPHY</string>
     <string name="sports">SPORTS</string>
+    <string name="quesn" id="Question">Questions ase</string>
+    <string name="NextQuestin">Next Question</string>
+
 </resources>
